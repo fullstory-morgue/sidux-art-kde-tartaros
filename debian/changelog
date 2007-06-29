@@ -1,8 +1,9 @@
 sidux-art-kde-tartaros (0.0.7) unstable; urgency=low
 
   * Fork from sidux-art-kde.
+  * Conflict with sidux-art-kde <= 0.0.6.
 
- -- Kel Modderman <kel@otaku42.de>  Fri, 29 Jun 2007 21:24:46 +1000
+ -- Kel Modderman <kel@otaku42.de>  Fri, 29 Jun 2007 21:48:16 +1000
 
 sidux-art-kde (0.0.6) unstable; urgency=low
 

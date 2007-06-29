@@ -9,5 +9,6 @@ Standards-Version: 3.7.2
 Package: sidux-art-kde-tartaros
 Architecture: all
 Depends: ksplash, kdm
+Conflicts: sidux-art-kde (<= 0.0.6)
 Description: kde theme for sidux tartaros release
  Provides ksplash and kdm themes for sidux tartaros release
