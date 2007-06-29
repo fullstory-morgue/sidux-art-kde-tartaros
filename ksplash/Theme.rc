@@ -1,0 +1,10 @@
+[KSplash Theme: sidux]
+Name = sidux
+Description = sidux Tartaros ksplash
+Version = 1.1
+Author = Cathbard Druid
+
+Engine = Default
+
+Icons Flashing = true
+

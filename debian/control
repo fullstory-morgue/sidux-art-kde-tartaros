@@ -1,0 +1,13 @@
+Source: sidux-art-kde-tartaros
+Section: graphics
+Priority: extra
+Maintainer: Bernard Gray <bernard.gray@gmail.com>
+Uploaders: Kel Modderman <kel@otaku42.de>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: sidux-art-kde-tartaros
+Architecture: all
+Depends: ksplash, kdm
+Description: kde theme for sidux tartaros release
+ Provides ksplash and kdm themes for sidux tartaros release
