@@ -1,8 +1,9 @@
 sidux-art-kde-tartaros (0.0.8) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * add VCS control headers.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 30 Jun 2007 12:56:51 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 11 Sep 2007 20:21:15 +0200
 
 sidux-art-kde-tartaros (0.0.7) unstable; urgency=low
 
