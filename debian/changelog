@@ -1,8 +1,10 @@
-sidux-art-kde-tartaros (0.3) UNRELEASED; urgency=low
+sidux-art-kde-tartaros (0.3) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * update to debhelper compat 6.
+  * add myself to Uploaders.
+  * fix KDE spelling error.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 08 Dec 2007 23:40:57 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 19 Jan 2008 01:44:19 +0100
 
 sidux-art-kde-tartaros (0.2) unstable; urgency=low
 
