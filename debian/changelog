@@ -1,8 +1,8 @@
-sidux-art-kde-tartaros (0.4) UNRELEASED; urgency=low
+sidux-art-kde-tartaros (0.4) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * appease lintian and write (C) as © in debian/copyright.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 19 Jan 2008 01:45:28 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 00:07:47 +0100
 
 sidux-art-kde-tartaros (0.3) unstable; urgency=low
 
