@@ -1,8 +1,8 @@
-sidux-art-kde-tartaros (0.5) UNRELEASED; urgency=low
+sidux-art-kde-tartaros (0.5) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * Provides: sidux-art-kde-theme.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 00:08:54 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 23 Feb 2008 13:49:52 +0100
 
 sidux-art-kde-tartaros (0.4) unstable; urgency=low
 
