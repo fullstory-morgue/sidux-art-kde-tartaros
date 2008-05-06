@@ -1,8 +1,8 @@
-sidux-art-kde-tartaros (0.6) UNRELEASED; urgency=low
+sidux-art-kde-tartaros (0.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to the new dh implementation of debhelper 7.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 23 Feb 2008 13:51:39 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 01:59:26 +0200
 
 sidux-art-kde-tartaros (0.5) unstable; urgency=low
 
