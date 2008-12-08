@@ -11,7 +11,9 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde-tartaros/trunk/
 Package: sidux-art-kde-tartaros
 Architecture: all
 Provides: sidux-art-kde-theme
-Depends: ksplash, kdm
+Depends: ${misc:Depends},
+         ksplash,
+         kdm
 Conflicts: sidux-art-kde (<= 0.0.6)
 Description: KDE theme for sidux tartaros release
  Provides ksplash and kdm themes for sidux tartaros release
