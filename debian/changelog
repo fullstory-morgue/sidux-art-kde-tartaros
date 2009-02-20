@@ -1,8 +1,9 @@
-sidux-art-kde-tartaros (0.9) UNRELEASED; urgency=low
+sidux-art-kde-tartaros (0.9) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix desktop-entry-contains-encoding-key.
+  * clarify licensing.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:31:26 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:37:40 +0100
 
 sidux-art-kde-tartaros (0.8) unstable; urgency=low
 
