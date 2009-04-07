@@ -1,8 +1,12 @@
-sidux-art-kde-tartaros (0.11) UNRELEASED; urgency=low
+sidux-art-kde-tartaros (0.11) unstable; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 06 Apr 2009 21:32:34 +0200
+  [ Michiel de Boer ]
+  * Moved postinst file to sidux-art-wallpaper-tartaros.
+
+ -- Michiel de Boer <locsmif@sidux.com>  Tue, 07 Apr 2009 06:00:06 +0200
 
 sidux-art-kde-tartaros (0.10) unstable; urgency=low
 
