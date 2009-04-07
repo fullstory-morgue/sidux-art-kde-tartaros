@@ -1,8 +1,9 @@
-sidux-art-kde-tartaros (0.12) UNRELEASED; urgency=low
+sidux-art-kde-tartaros (0.12) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * temporarily ORPHAN PACKAGE
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 19:50:23 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 23:07:48 +0200
 
 sidux-art-kde-tartaros (0.11) unstable; urgency=low
 
